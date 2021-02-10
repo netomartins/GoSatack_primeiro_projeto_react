@@ -1,0 +1,5 @@
+**/*.js
+node_modules
+build
+/src/react-app-env.d.ts
+© 2021 GitHub, Inc.

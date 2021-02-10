@@ -28,6 +28,34 @@ const Dashboard: React.FC = () => {
 
           <FiChevronRight size={20} />
         </a>
+
+        <a href="teste">
+          <img
+            src="https://avatars.githubusercontent.com/u/20827326?s=460&u=e6035e64c4215bf53fbc45baecbc9d2ce2a91ced&v=4"
+            alt="Neto Martins"
+          />
+
+          <div>
+            <strong>Rocketseat/Unform</strong>
+            <p>Easy Highly scalable ReactJs</p>
+          </div>
+
+          <FiChevronRight size={20} />
+        </a>
+
+        <a href="teste">
+          <img
+            src="https://avatars.githubusercontent.com/u/20827326?s=460&u=e6035e64c4215bf53fbc45baecbc9d2ce2a91ced&v=4"
+            alt="Neto Martins"
+          />
+
+          <div>
+            <strong>Rocketseat/Unform</strong>
+            <p>Easy Highly scalable ReactJs</p>
+          </div>
+
+          <FiChevronRight size={20} />
+        </a>
       </Repositories>
     </>
   );
